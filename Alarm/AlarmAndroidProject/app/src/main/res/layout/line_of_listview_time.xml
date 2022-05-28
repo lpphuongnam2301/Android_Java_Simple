@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/txtTime"
+        android:layout_width="310dp"
+        android:layout_height="80dp"
+        app:layout_constraintEnd_toStartOf="@+id/btnDelete"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="08:32"
+        android:textSize="60dp"
+        android:textColor="#3A3F77"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:background="#FFFFFF"
+        />
+
+    <TextView
+        android:id="@+id/btnDelete"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:drawableLeft="@drawable/icons8_delete_60"
+        android:paddingLeft="20dp"
+
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lpphu/AndroidStudioProjects/AlarmAndroidProject/app/src/main/res/layout/activity_addtime.xml" value="0.25" />
+        <entry key="..\:/Users/lpphu/AndroidStudioProjects/AlarmAndroidProject/app/src/main/res/layout/activity_alarm_clock.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lpphu/AndroidStudioProjects/AlarmAndroidProject/app/src/main/res/layout/activity_change_album.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/lpphu/AndroidStudioProjects/AlarmAndroidProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/lpphu/AndroidStudioProjects/AlarmAndroidProject/app/src/main/res/layout/add_new_time.xml" value="0.2" />
+        <entry key="..\:/Users/lpphu/AndroidStudioProjects/AlarmAndroidProject/app/src/main/res/layout/line_of_image.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/lpphu/AndroidStudioProjects/AlarmAndroidProject/app/src/main/res/layout/line_of_listview_time.xml" value="0.4" />
+        <entry key="..\:/Users/lpphu/AndroidStudioProjects/AlarmAndroidProject/app/src/main/res/menu/top_menu.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
